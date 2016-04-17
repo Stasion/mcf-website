@@ -1,0 +1,5 @@
+deploy:
+  provider: openshift
+  user: "app@malangcreativefusion.com"
+  password: "mcf20161qaz" # can be encrypted
+  domain: "site-mcfusin.rhcloud.com"
