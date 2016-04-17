@@ -1,0 +1,12 @@
+{
+    "name": "mcf/mcfsite",
+    "require": {
+        "getkirby/cli": "^1.4"
+    },
+    "authors": [
+        {
+            "name": "Yuri Pratama",
+            "email": "yuripertamax@gmail.com"
+        }
+    ]
+}
